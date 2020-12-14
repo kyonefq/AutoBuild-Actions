@@ -4,8 +4,8 @@
 # AutoUpdate for Openwrt
 
 Version=V4.3
-DEFAULT_DEVICE=d-team_newifi-d2
-Github=https://github.com/Hyy2001X/AutoBuild-Actions
+DEFAULT_DEVICE=phicomm_k2p
+Github=https://github.com/kyonefq/AutoBuild-Actions
 
 TIME() {
 	echo -ne "\n[$(date "+%H:%M:%S")] "
